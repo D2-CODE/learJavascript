@@ -5,3 +5,4 @@ let dv='dhaemwhs';
 let plus=dv+s;
 
 console.log(plus);
+console.log(plus);
