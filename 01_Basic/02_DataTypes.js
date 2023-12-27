@@ -17,7 +17,7 @@ console.table([Pname,age,genderMale,mobileNumber,bnakBalance]);
 //we have keyword or method of js thats tell us type of variables
 
 console.table([typeof Pname,typeof age,typeof genderMale,typeof mobileNumber,typeof bnakBalance]);
-console.table([typeof Pname,typeof age,typeof genderMale,typeof mobileNumber,typeof bnakBalance]);
+// console.table([typeof Pname,typeof age,typeof genderMale,typeof mobileNumber,typeof bnakBalance]);
 //run and check it 
 
 
